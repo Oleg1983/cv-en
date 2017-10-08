@@ -29,6 +29,10 @@ body{
 	width:150px;
 }
 
+.addres .break{
+	word-wrap: break-word;
+}
+
 .btn{
 	text-transform: uppercase;
 }
